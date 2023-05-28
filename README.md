@@ -1,0 +1,2 @@
+# Rofi
+Rofi configuration files
